@@ -1,7 +1,7 @@
 android-testcase
 ================
 
-Creating a very, very simple yet working project for Android Testcase. I am using the robotium library for testing . 
+Creating a very, very simple yet useful project for Android Testcase. I am using the robotium library for testing . 
 
 $ adb shell am instrument com.example.activitytransitiontest/android.test.InstrumentationTestRunner
 
